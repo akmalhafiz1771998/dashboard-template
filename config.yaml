@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    Hafiz:
+      email: akmalhafiz1771998@gmail.com
+      name: Akhmal Hafis
+      password: $2b$12$3n6.4L965V526Y1IMKxD8uSvFaUPnyuVx/414.XEprxHg35w27sLa # To be replaced with hashed password
+      role: None
+    
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name

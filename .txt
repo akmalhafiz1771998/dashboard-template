@@ -1,0 +1,10 @@
+1. git init - Initialize git project
+2. git remote add origin "some_link"
+3. git add .
+4. git commit -m "Hello"
+5. git push 
+
+
+2. git add Password_hashing - 
+3. git commit -m "Securing password"
+4. git push

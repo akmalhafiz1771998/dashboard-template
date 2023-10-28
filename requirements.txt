@@ -1,0 +1,10 @@
+pandas==1.5.3 
+plotly==5.9.0
+numpy==1.23.5
+matplotlib==3.7.0
+streamlit_authenticator
+pathlib
+mysql-connector-python
+streamlit-aggrid
+DateTime
+

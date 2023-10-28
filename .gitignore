@@ -1,0 +1,9 @@
+__pycache__
+secrets.yaml
+anaconda_packages.txt
+Transformation.ipynb
+Philly_Data_Analysis.ipynb
+Send_Email.py
+Jaccess.ipynb
+.env
+QueueTableDF.csv

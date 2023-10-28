@@ -1,0 +1,16 @@
+﻿Stage,Stage_Banded
+Customer Prospecting,Leads
+Pre Screening,Prospects
+Sales Full Data Entry,Prospects
+CP Full Data Entry,Mandated
+Group Shariah Checking,Group Shariah
+RMD Risk Observation,RMD
+Cancellation,Declined
+CIC Approval,CIC Approval
+Fast Track Approval,Fast Track Approval
+LO and Customer Acceptance,Acceptance
+OCR Verification,Leads
+Conditional Approved Acceptance,Mandated
+CCRIS Data Entry Submission,Mandated
+Full Data Entry,Mandated
+Rejection,Declined
